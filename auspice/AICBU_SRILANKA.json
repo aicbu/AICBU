@@ -191,6 +191,7 @@
     },
     "filters": [
       "location",
+      "pango_lineage_local",
       "country",
       "region",
       "author"
