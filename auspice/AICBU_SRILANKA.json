@@ -190,7 +190,6 @@
       "map_triplicate": true
     },
     "filters": [
-      "pango_lineage_local"
       "location",
       "country",
       "region",
